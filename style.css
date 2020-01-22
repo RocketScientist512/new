@@ -2,6 +2,9 @@
 *** GENERAL
 **********************************************/
 
+html { overflow-y: scroll; overflow-x:hidden; }
+body { position: absolute; }
+
 .final-score {
     position: absolute;
     left: 50%;
